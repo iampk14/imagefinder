@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: imagefinder
+    env: docker
+    plan: free
+    branch: master
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    buildCommand: ""
+    startCommand: ""
+    autoDeploy: true
