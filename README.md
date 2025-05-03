@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🖼️ ImageFinder 
 
 Hi Team,
@@ -101,6 +101,4 @@ Includes unit tests for:
 Thank you again for the opportunity!
 
 — Prasad Kulkarni
-=======
-# imagefinder
->>>>>>> 5c999b3a24b0e32b53e2301d1837dc9277ebf411
+
